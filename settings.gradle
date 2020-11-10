@@ -1,0 +1,3 @@
+include ':payment'
+include ':payment_outside'
+rootProject.name = "RimacPaymentExample"
